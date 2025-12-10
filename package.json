@@ -1,0 +1,25 @@
+{
+  "name": "tic_tac_toev2",
+  "version": "1.0.0",
+  "description": "\"# tic_tac_toeV2\"",
+  "main": "board.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haim-aflalo/tic_tac_toeV2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Haim-aflalo/tic_tac_toeV2/issues"
+  },
+  "homepage": "https://github.com/Haim-aflalo/tic_tac_toeV2#readme",
+  "dependencies": {
+    "analiza-sync": "^1.0.1",
+    "input": "^1.0.1"
+  }
+}
